@@ -32,7 +32,7 @@
 
 .parceiros img {
   margin: auto;
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .parceiros img:hover {
@@ -44,9 +44,14 @@
     padding-bottom: 60px;
   }
 
+  .parceiros li {
+    padding: 20px;
+  }
+
   .parceiros h2 {
     margin-bottom: 20px;
   }
+
   .parceiros ul {
     grid-template-columns: repeat(2, 1fr);
   }
