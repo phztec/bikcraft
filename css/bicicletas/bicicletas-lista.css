@@ -1,3 +1,5 @@
+/* BICICLETAS-LISTA INICIO */
+
 .bicicletas-lista {
   padding-top: 60px;
   padding-bottom: 120px;
@@ -61,3 +63,5 @@
     gap: 20px;
   }
 }
+
+/* BICICLETAS-LISTA FIM */
