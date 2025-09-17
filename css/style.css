@@ -1,16 +1,10 @@
-/* RESET */
+/* GLOBAL */
 @import "./global/global.css";
-
-/* UTILIDADES TIPOGRAFIA */
-@import "./utilidades/tipografia.css";
-
-/* UTILIDADES CORES */
-@import "./utilidades/cores.css";
-
-/* MENU */
 @import "./global/header.css";
 
 /* UTILIDADES COMPONENTES */
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
 
 /* HOME */
@@ -21,3 +15,6 @@
 
 /* BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* SEGUROS */
+@import "./seguros/seguros.css";
